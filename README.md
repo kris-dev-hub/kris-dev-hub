@@ -24,6 +24,7 @@ I am [Krzysztof Czerwinski](https://krisdevhub.com) (Kris), a Full-Stack Develop
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 
